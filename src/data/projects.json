@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Weight Manage",
+    "imageSrc": "projects/weightmanage.png",
+    "description": "Developed a web application using React for weight management. It manages for weight entries by storing data in LocalStorage.",
+    "skills": ["React", "Redux", "LocalStorage"],
+    "source": "https://github.com/Arjun-kris/weight-manage.git"
+  },
+  {
+    "title": "Url Shortener",
+    "imageSrc": "projects/urlshrink.png",
+    "description": "Developed a web application using Django for shortening links. It generates shortened URLs, offering a simple and efficient solution for managing and sharing links.",
+    "skills": ["Django", "HTML", "CSS", "JavaScript", "MySQL"],
+    "source": "https://github.com/Arjun-kris/portfolio.git"
+  },
+  {
+    "title": "E-commerce App",
+    "imageSrc": "projects/ecommerce.png",
+    "description":"This is a Flutter-based e-commerce app that I built as part of my internship. I developed the front-end to ensure a seamless shopping experience.",
+    "skills": ["Flutter", "Dart", "Firebase"],
+    "source": "https://github.com/Arjun-kris/ecommerce_app.git"
+  },
+  {
+    "title": "Nutrivisor",
+    "imageSrc": "projects/nutrivisor.png",
+    "description": "This is a Python-based diet management progressive web app that includes machine learning.",
+    "skills": ["Python", "Flask", "HTML", "CSS", "JavaScript", "SQLite", "Machine Learning"],
+    "source": "https://github.com/Arjun-kris/nutrivisor.git"
+  },
+  {
+    "title": "Expensea",
+    "imageSrc": "projects/expensea.png",
+    "description": "This is an expense tracking android application. It utilizes SQLite as the backend database, ensuring efficient data management.",
+    "skills": ["Android", "Java", "XML", "SQLite"],
+    "source": "https://github.com/Arjun-kris/expensea.git"
+  },
+  {
+    "title": "WeatherSense",
+    "imageSrc": "projects/weathersense.png",
+    "description": "This is a web app for weather forecast and up-to-date weather information, crafted with HTML, CSS, and JavaScript.", 
+    "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "API"],
+    "source": "https://github.com/Arjun-kris/weathersense.git"
+  },
+  {
+    "title": "TO-DO App",
+    "imageSrc": "projects/todo.png",
+    "description": "This is a web app for listing out tasks", 
+    "skills": ["React", "Express","Node.js", "Mongodb"],
+    "source": "https://github.com/Arjun-kris/MERN-TODO-APP.git"  }
+]

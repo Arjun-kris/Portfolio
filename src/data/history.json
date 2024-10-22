@@ -1,0 +1,30 @@
+[ 
+  {
+    "role": "Full Stack Developer Intern",
+    "organisation": "MashupStack",
+    "startDate": "Jun, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on web applications.", "Learned about new technologies.", "Development using Django and React." ]
+  },
+  {
+    "role": "Content Writer",
+    "organisation": "Conscript HR Advisors",
+    "startDate": "Sept, 2021",
+    "endDate": "Oct, 2021",
+    "experiences": ["Crafted SEO content.", "Aligned strategy with team.", "Tailored for audience engagement."]
+  },
+  {
+    "role": "Software Developer Intern",
+    "organisation": "Weberfox Technologies Pvt Ltd",
+    "startDate": "Jun, 2023",
+    "endDate": "Sept, 2023",
+    "experiences": ["App development with Flutter", "Worked on an E-commerce app","Collaborated with team to enhance features.", "Showcased drive for innovation in software."]
+  },
+  {
+    "role": "Content Writer",
+    "organisation": "SEO Mantra",
+    "startDate": "Mar, 2020",
+    "endDate": "Apr, 2020",
+    "experiences": ["Researched for original articles.", "Optimized SEO with keywords.", "Stayed current for increased traffic."]
+  }
+]
